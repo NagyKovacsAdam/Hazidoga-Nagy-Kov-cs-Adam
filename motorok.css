@@ -1,0 +1,28 @@
+body{
+    background-color: antiquewhite
+}
+
+img{
+    height: 170px;
+}
+
+h2{
+    text-align: justify;
+    color: brown;
+}
+        
+h3{
+    text-align: justify;
+}
+
+.kozep{
+    text-align:center
+}
+
+.barna{
+    color:brown
+}
+
+.piros{
+    color: red
+}
