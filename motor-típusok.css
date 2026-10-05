@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(215, 219, 224);
+}
+
+table{
+    background-color:antiquewhite
+}
+
+.nagybetu-barna{
+    font-size: x-large;
+    color: brown;
+    font-style:italic
+
+}
+
+.magas-fogyasztas{
+    color:red;
+    font-weight: bolder
+}
+
+.kozepes-fogyasztas{
+    color: greyS;
+    font-weight: bolder;
+}
+
+.alacsony-fogyasztas{
+    color:green;
+    font-weight: bolder
+}
+
+table{
+    border-collapse: collapse
+}
+
+th{
+    border: 4px solid brown
+}
+
+td{
+    border: 2px solid black;
+    font-size: larger;
+    text-align: center;
+    background-color: white;
+}
+
+h1{
+    text-align: center;
+    color: brown;
+}
+
+h2{
+    text-align: justify;
+    color: brown;
+    font-size: xx-large;
+}
+
+.kozep-betu{
+    font-size:x-large;
+    font-weight: bolder
+}
