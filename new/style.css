@@ -89,3 +89,15 @@ p{
     justify-content: center;
     font-size: 25px;
 }
+
+.magas-fogyasztas{
+    color: red;
+}
+
+.kozepes-fogyasztas{
+    color: gray;
+}
+
+.alacsony-fogyasztas{
+    color: green;
+}
