@@ -1,12 +1,12 @@
 body{
-    background-image: url(asphalt-road-texture-dark-gray-color.jpg);
+    background-image: url(motorcycle-rider-offroad-gravel-track.jpg);
     background-size:cover;
     background-repeat: repeat-y;
 }
 
 table{
     border-collapse: collapse;
-    background-color: rgb(134, 134, 134);
+    background-color:
     border: 4px solid white;
 }
 
@@ -28,11 +28,15 @@ h1{
     color: white;
     padding: 10px;
     text-align: center;
+    font-size: 60px;
 }
 
 h2{
     color: white;
     text-decoration: underline;
+    margin-bottom: 70px;
+    margin-bottom: 70px;
+    font-size: 30px;
 }
 
 .container{
@@ -60,7 +64,6 @@ p{
 
 .motor-kepek{
     text-align: center;
-    background-color:rgb(134, 134, 134);
     width: 230px;
     height: 220px;
     border: 4px solid white;
@@ -71,18 +74,6 @@ p{
     margin-top: 11px;
 }
 
-.kep-betu{ 
-    text-transform: uppercase;
-    font-weight: bolder;
-    text-align: center;
-    font-size: 15px;
-}
-
-.fekete-hatter{
-    background-color: rgb(134, 134, 134);
-    border: 4px solid black;
-}
-
 .ketk-t{
     font-size: 34px;
     text-transform: uppercase;
@@ -91,5 +82,10 @@ p{
 
 .beljebb{
     margin: 60px;
-    font
+}
+
+.tablazat{
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
 }
