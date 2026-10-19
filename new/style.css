@@ -1,0 +1,95 @@
+body{
+    background-image: url(asphalt-road-texture-dark-gray-color.jpg);
+    background-size:cover;
+    background-repeat: repeat-y;
+}
+
+table{
+    border-collapse: collapse;
+    background-color: rgb(134, 134, 134);
+    border: 4px solid white;
+}
+
+td{
+    border: 4px solid white;
+    color: white;
+    padding: 8px;
+}
+
+th{
+    border: 4px solid white ;
+    color: white;
+    padding: 8px;
+    text-transform: uppercase;
+}
+
+h1{
+    text-transform: uppercase;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+h2{
+    color: white;
+    text-decoration: underline;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.kep-flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+li{
+    color: white;
+    margin-bottom: 5px;
+    font-size: 22px;
+}
+
+p{
+    color: white;
+    text-indent: 30px;
+    font-size: 25px;
+}
+
+.motor-kepek{
+    text-align: center;
+    background-color:rgb(134, 134, 134);
+    width: 230px;
+    height: 220px;
+    border: 4px solid white;
+}
+
+.keret{
+    width: 200px;
+    margin-top: 11px;
+}
+
+.kep-betu{ 
+    text-transform: uppercase;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 15px;
+}
+
+.fekete-hatter{
+    background-color: rgb(134, 134, 134);
+    border: 4px solid black;
+}
+
+.ketk-t{
+    font-size: 34px;
+    text-transform: uppercase;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.beljebb{
+    margin: 60px;
+    font
+}
