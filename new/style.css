@@ -3,6 +3,7 @@ body{
     background-size:cover;
     background-repeat: repeat-y;
     text-align: justify;
+    zoom: 80%;
 }
 
 table{
