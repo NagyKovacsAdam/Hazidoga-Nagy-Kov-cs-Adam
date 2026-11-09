@@ -1,0 +1,142 @@
+body{
+    background-color: lightgray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 60px;
+}
+
+h2{
+    text-transform: uppercase;
+    font-size: 30px;
+    text-align: center;
+    margin: 40px;
+}
+
+p, ul{
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.LMgyerek{
+    float: right;
+    margin: 30px;
+    width: 350px;
+}
+
+.center{
+    text-align: center;
+}
+
+.float-l{
+    float: right;
+    margin-bottom: 30px;
+}
+
+.box{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.album{
+    background-color:black;
+    padding: 30px;
+    width: 300px;
+    border: 5px solid white;
+}
+
+.albumcim{
+    text-transform: uppercase;
+    color: white;
+}
+
+.albuminfo{
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: bolder;
+    color: white;
+}
+
+.tillLM{
+    max-width: 1000px;
+    height: auto;
+    border: 5px solid white;
+    background-color: black;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    text-align: justify;
+    padding: 30px;
+}
+
+ul{
+    line-height: 150%;
+    text-transform: none;
+}
+
+.ulfelsorolas{
+    font-weight: bold;
+}
+
+.piro{
+    background-color: black;
+    margin: 30px;
+    border: 5px solid white;
+    color: white;
+    padding: 30px;
+}
+
+.piros{
+    color: red;
+    font-weight: bold;
+}
+
+p{
+    text-indent:30px ;
+}
+
+.box-2{
+    display: flex;
+    flex-direction: column;
+    background-color:black;
+    padding: 30px;
+    border: 5px solid white;
+    width: auto;
+    color: white;
+    font-size: 40px;
+    margin-left: 50px;
+}
+
+.eloadok{
+    margin-top: auto;
+    margin-bottom: auto;
+    border: 5px solid white;
+    float: left;
+    height: 300px;
+    width: 300px;
+}
+
+.box-2-right{
+    margin-right: 50px;
+    margin-left: 50px;
+    float: right; 
+    background-color: black; 
+    width: 800px;
+    height: 2270px;
+    border: 5px solid white;
+    color: white;
+    
+}
+
+.eloadok1{
+    border: 5px solid white;
+    height: 300px;
+    width: 300px;
+    margin-left: 250px;
+}
