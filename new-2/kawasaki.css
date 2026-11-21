@@ -38,6 +38,9 @@ li{
     width: 300px;
     height: 100%;
     background-color: rgb(45, 51, 59);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .kepszoveg{
@@ -50,13 +53,15 @@ li{
 .flex{
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
 }
 
 #ninja{
-    width: 700px;
-    height: 390px;
+    min-width: 700px;
+    min-height: 390px;
     background-color: rgb(33, 37, 43);
     border: 10px solid rgb(45, 51, 59);
     margin: 30px;
     color: white;
 }
+
